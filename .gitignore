@@ -2,5 +2,5 @@
 *
 
 # But not these files...
-!*/app/src/main
+!/app/src/main
 !.gitignore
