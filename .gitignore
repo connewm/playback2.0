@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not these files...
+!*/app/src/main
+!.gitignore
